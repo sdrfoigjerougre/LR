@@ -1,0 +1,2 @@
+C:\Users\Uxq\Desktop\labo2-master\obj\Debug\labo2.csproj.AssemblyReference.cache
+C:\Users\Uxq\Desktop\labo2-master\obj\Debug\labo2.csproj.CoreCompileInputs.cache
